@@ -1,25 +1,40 @@
-# Raycast Extensions (1483 in total)
+# Raycast Extensions (1483 in total as of April 26th)
+
+Welcome to this unofficial directory of Raycast Extensions! This repository aims to simplify the discovery of new extensions and enhance your experience with the powerful tool that Raycast is.
+
+## 📘 About This Repository
+This project organizes extensions from the official [Raycast Extensions](https://github.com/raycast/extensions) repository into categories, making it easier for users to find tools that match their needs. Please note that all descriptions and names of the extensions are sourced directly from the official repository.
+
+## 🗂 Categories
+I've sorted the extensions into various categories based on their functionality and use cases. Whether you're looking for productivity boosters, development tools, or entertainment options, you'll find them categorized here.
+
+## 🙌 Contributing
+Categorizing extensions can be a tough nut to crack, and I am open to suggestions! If you think there's a better way to group certain extensions or want to recommend new categories, please feel free to open a GitHub issue. Your input is invaluable in making this directory more useful for everyone.
+
+## ⚠️ Disclaimer
+Please note that this is an **unofficial** repository and not directly affiliated with the official Raycast Extensions repository. All extension descriptions and names are from the official source, and this project merely categorizes them for easier navigation and discovery.
+
+I hope this repository helps you make the most out of Raycast. Explore, enjoy, and don't hesitate to contribute!
 
 ## Table of Contents
-
-- [💼 Business (94)](#-business-94)
-- [🚀 Productivity (148)](#-productivity-148)
-- [🎨 Design (100)](#-design-100)
-- [🎵 Audio, Video, Images (85)](#-audio-video-images-85)
-- [📱 Social Media (45)](#-social-media-45)
-- [📚 Education (101)](#-education-101)
-- [🎭 Entertainment (64)](#-entertainment-64)
-- [🌟 Lifestyle (35)](#-lifestyle-35)
-- [🔬 Science (15)](#-science-15)
-- [🤖 AI \& ML (52)](#-ai--ml-52)
-- [📊 Data Analysis (18)](#-data-analysis-18)
-- [♿️ Accessibility (9)](#️-accessibility-9)
-- [⚙️ Automation (13)](#️-automation-13)
-- [🛠️ Utilities (164)](#️-utilities-164)
-- [💻 Technology (169)](#-technology-169)
-- [🌐 Browsers (30)](#-browsers-30)
-- [🔒 Security (62)](#-security-62)
-- [🛠️ Developer Tools (279)](#️-developer-tools-279)
+- [💼 Business (94)](#business)
+- [🚀 Productivity (148)](#productivity)
+- [🎨 Design (100)](#design)
+- [🎵 Audio, Video, Images (85)](#audio--video--images)
+- [📱 Social Media (45)](#social-media)
+- [📚 Education (101)](#education)
+- [🎭 Entertainment (64)](#entertainment)
+- [🌟 Lifestyle (35)](#lifestyle)
+- [🔬 Science (15)](#science)
+- [🤖 AI & ML (52)](#ai---ml)
+- [📊 Data Analysis (18)](#data-analysis)
+- [♿️ Accessibility (9)](#accessibility)
+- [⚙️ Automation (13)](#automation)
+- [🛠️ Utilities (164)](#utilities)
+- [💻 Technology (169)](#technology)
+- [🌐 Browsers (30)](#browsers)
+- [🔒 Security (62)](#security)
+- [🛠️ Developer Tools (279)](#developer-tools)
 
 ## 💼 Business (94)
 [Asana](https://www.raycast.com/thomaslombart/asana) by thomaslombart - Create, access, and modify tasks.
