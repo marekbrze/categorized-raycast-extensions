@@ -1,4 +1,4 @@
-# Raycast Extensions (1483 in total as of April 26th)
+# Categorized Raycast Extensions
 
 Welcome to this unofficial directory of Raycast Extensions! This repository aims to simplify the discovery of new extensions and enhance your experience with the powerful tool that Raycast is.
 
@@ -17,12 +17,13 @@ Please note that this is an **unofficial** repository and not directly affiliate
 I hope this repository helps you make the most out of Raycast. Explore, enjoy, and don't hesitate to contribute!
 
 ## Table of Contents
-- [Raycast Extensions (1483 in total as of April 26th)](#raycast-extensions-1483-in-total-as-of-april-26th)
+- [Categorized Raycast Extensions](#categorized-raycast-extensions)
   - [📘 About This Repository](#-about-this-repository)
   - [🗂 Categories](#-categories)
   - [🙌 Contributing](#-contributing)
   - [⚠️ Disclaimer](#️-disclaimer)
   - [Table of Contents](#table-of-contents)
+- [All Extensions (1483 in total as of April 26th)](#all-extensions-1483-in-total-as-of-april-26th)
   - [💼 Business (94)](#-business-94)
   - [🚀 Productivity (148)](#-productivity-148)
   - [🎨 Design (100)](#-design-100)
@@ -41,6 +42,8 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
   - [🌐 Browsers (30)](#-browsers-30)
   - [🔒 Security (62)](#-security-62)
   - [🛠️ Developer Tools (279)](#️-developer-tools-279)
+
+# All Extensions (1483 in total as of April 26th)
 
 ## 💼 Business (94)
 [Asana](https://www.raycast.com/thomaslombart/asana) by thomaslombart - Create, access, and modify tasks.
