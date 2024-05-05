@@ -23,7 +23,8 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
   - [🙌 Contributing](#-contributing)
   - [⚠️ Disclaimer](#️-disclaimer)
   - [Table of Contents](#table-of-contents)
-- [All Extensions (1483 in total as of April 26th)](#all-extensions-1483-in-total-as-of-april-26th)
+- [Raycast Extensions (1498 in total)](#raycast-extensions-1498-in-total)
+  - [🌟 New from the Last Week (15)](#-new-from-the-last-week-15)
   - [💼 Business (94)](#-business-94)
   - [🚀 Productivity (148)](#-productivity-148)
   - [🎨 Design (100)](#-design-100)
@@ -43,10 +44,43 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
   - [🔒 Security (62)](#-security-62)
   - [🛠️ Developer Tools (279)](#️-developer-tools-279)
 
-# All Extensions (1483 in total as of April 26th)
+
+# Raycast Extensions (1498 in total)
+
+## 🌟 New from the Last Week (15)
+[BookStack](https://www.raycast.com/huskii/bookstack) by huskii - Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop.
+
+[Capacities](https://www.raycast.com/steffenble/capacities) by steffenble - Interact with Capacities from your command bar. Search your notes, capture content & more.
+
+[Composerize](https://www.raycast.com/j3lte/composerize) by j3lte - Convert docker commands to docker-compose and vice versa
+
+[Copilot Workspace](https://www.raycast.com/github-next/copilot-workspace) by github-next - Take an idea from anywhere and turn it into code with Copilot Workspace
+
+[Google Advanced Search](https://www.raycast.com/developerlover/google-advanced-search) by developerlover - Enhance your desktop with this Raycast extension that simplifies Google's advanced search, bringing features like exact matches and domain filtration directly to macOS—ideal for quick, precise searches without needing to remember complex search options.
+
+[Mac App Store Search](https://www.raycast.com/say4n/mac-app-store-search) by say4n - Search for apps in the Mac App Store from Raycast!
+
+[Node Release Notes](https://www.raycast.com/fil/node-release-notes) by fil - Quickly browse and access detailed information of Node.js versions. Find release notes, publication dates, and documentation links for any Node.js version. Ideal for developers and sysadmins to stay informed about Node.js updates and ensure compatibility with their projects.
+
+[NuGet Package Explorer](https://www.raycast.com/gaoyang/nuget-package-explorer) by gaoyang - Local NuGet package explorer
+
+[Rewardful](https://www.raycast.com/alexs/rewardful) by alexs - Unofficial Rewardful extension
+
+[Private npm Packages Search](https://www.raycast.com/HCJackyLee/search-private-npm-packages) by HCJackyLee - Search private npm packages.
+
+[Substack](https://www.raycast.com/j3lte/substack) by j3lte - Search Substack posts and profiles from Raycast
+
+[Syntax.fm](https://www.raycast.com/msmps/syntax-fm) by msmps - Syntax.fm at your fingertips.
+
+[Text Replacements](https://www.raycast.com/raycast/text-replacements) by raycast - Import macOS's text replacements to Raycast snippets.
+
+[Workouts](https://www.raycast.com/samuelkraft/workouts) by samuelkraft - Stay on top of your workouts
+
+[YAFW](https://www.raycast.com/pablopunk/yafw) by pablopunk - Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder.
+
 
 ## 💼 Business (94)
-[Asana](https://www.raycast.com/thomaslombart/asana) by thomaslombart - Create, access, and modify tasks.
+[Asana](https://www.raycast.com/raycast/asana) by raycast - Create, access, and modify tasks.
 
 [BambooHR](https://www.raycast.com/Rob/bamboohr) by Rob - Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast.
 
@@ -112,11 +146,11 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [HubSpot Portal Launcher](https://www.raycast.com/chriso/hubspot-portal-launcher) by chriso - A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals
 
-[Humaans](https://www.raycast.com/farisaziz12/humaans) by farisaziz12 - Interact with the Humaans platform
+[Humaans](https://www.raycast.com/humaans/humaans) by humaans - Interact with the Humaans platform
 
 [InFakt](https://www.raycast.com/teziovsky/infakt) by teziovsky - Search, create and manage invoices, clients and products in inFakt directly from Raycast.
 
-[Jira](https://www.raycast.com/thomaslombart/jira) by thomaslombart - Create, access, and modify issues and sprints.
+[Jira](https://www.raycast.com/raycast/jira) by raycast - Create, access, and modify issues and sprints.
 
 [Jira Search](https://www.raycast.com/sven/jira-search) by sven - Search for Jira issues (more tolerant and powerful than built-in), projects, boards and filters.
 
@@ -128,7 +162,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Search LaraJobs](https://www.raycast.com/Treblle/larajobs-search) by Treblle - Search jobs on Larajobs
 
-[Linear](https://www.raycast.com/thomaslombart/linear) by thomaslombart - Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar.
+[Linear](https://www.raycast.com/linear/linear) by linear - Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar.
 
 [MailerLite Stats](https://www.raycast.com/nkl/mailerlite-stats) by nkl - MailerLite Stats Raycast extension
 
@@ -238,13 +272,13 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 ## 🚀 Productivity (148)
 [Append Clipboard](https://www.raycast.com/koinzhang/append-clipboard) by koinzhang - Append or prepend selected text to your clipboard with different separators
 
-[Apple Notes](https://www.raycast.com/tumtum/apple-notes) by tumtum - Search and create notes within the Apple Notes application.
+[Apple Notes](https://www.raycast.com/raycast/apple-notes) by raycast - Search and create notes within the Apple Notes application.
 
-[Apple Reminders](https://www.raycast.com/thomaslombart/apple-reminders) by thomaslombart - Manage Apple Reminders.
+[Apple Reminders](https://www.raycast.com/raycast/apple-reminders) by raycast - Manage Apple Reminders.
 
 [Bear Notes](https://www.raycast.com/hmarr/bear) by hmarr - Control Bear with Raycast
 
-[Cal.com - Share Meeting Links](https://www.raycast.com/eluce2/cal-com-share-meeting-links) by eluce2 - Quickly share your Cal.com meeting links
+[Cal.com - Share Meeting Links](https://www.raycast.com/cal/cal-com-share-meeting-links) by cal - Quickly share your Cal.com meeting links
 
 [Quick Calendar](https://www.raycast.com/fuksman/calendar) by fuksman - View calendar month-by-month
 
@@ -310,7 +344,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Google Tasks](https://www.raycast.com/elliotdes/google-tasks) by elliotdes - Manage Google Tasks from Raycast.
 
-[Google Workspace](https://www.raycast.com/thomaslombart/google-workspace) by thomaslombart - Access Google Drive files.
+[Google Workspace](https://www.raycast.com/raycast/google-workspace) by raycast - Access Google Drive files.
 
 [HackMD](https://www.raycast.com/Yukai/hackmd) by Yukai - HackMD Raycast extension
 
@@ -322,7 +356,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Hyper Focus](https://www.raycast.com/iloveitaly/hyper-focus) by iloveitaly - Controls the hyper-focus command line daemon which blocks distracting websites and apps.
 
-[Hypersonic](https://www.raycast.com/reboot.studio/hypersonic) by reboot.studio - Fastest Notion to-do app ever
+[Hypersonic](https://www.raycast.com/reboot/hypersonic) by reboot - Fastest Notion to-do app ever
 
 [Inkdrop](https://www.raycast.com/yaeda/inkdrop) by yaeda - Control Inkdrop with Raycast
 
@@ -386,7 +420,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Mound](https://www.raycast.com/desmondsofua/mound-for-pile) by desmondsofua - A Raycast extension for the Pile journaling app
 
-[Multi](https://www.raycast.com/fernando_barbat/multi) by fernando_barbat - See rooms & teammates, join sessions, control devices and more
+[Multi](https://www.raycast.com/multi/multi) by multi - See rooms & teammates, join sessions, control devices and more
 
 [Music Timer](https://www.raycast.com/JulienLacr0ix/music-timer) by JulienLacr0ix - Music Timer is the ultimate productivity app that fuses the Pomodoro Technique with your favorite tracks from Spotify and Apple Music!
 
@@ -398,7 +432,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [NotePlan 3](https://www.raycast.com/shakedlokits/noteplan-3) by shakedlokits - Allows you to see your daily plan, search notes and launch straight into NotePlan.
 
-[Notion](https://www.raycast.com/HenriChabrand/notion) by HenriChabrand - The fastest way to search, create and update Notion pages.
+[Notion](https://www.raycast.com/notion/notion) by notion - The fastest way to search, create and update Notion pages.
 
 [Obsidian](https://www.raycast.com/KevinBatdorf/obsidian) by KevinBatdorf - Control Obsidian with Raycast
 
@@ -480,7 +514,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Storyblok](https://www.raycast.com/Rob/storyblok) by Rob - Query your Storyblok spaces, stories, assets, and more.
 
-[Supernotes](https://www.raycast.com/acnebs/supernotes) by acnebs - Interact with the Supernotes platform in Raycast.
+[Supernotes](https://www.raycast.com/supernotes/supernotes) by supernotes - Interact with the Supernotes platform in Raycast.
 
 [Tana](https://www.raycast.com/cheslip/tana) by cheslip - Write notes in Raycast, and capture them in Tana.
 
@@ -500,7 +534,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Todo List](https://www.raycast.com/maggie/todo-list) by maggie - Manage your todo list quickly by adding items and marking items as completed.
 
-[Todoist](https://www.raycast.com/thomaslombart/todoist) by thomaslombart - Check your Todoist tasks and quickly create new ones
+[Todoist](https://www.raycast.com/doist/todoist) by doist - Check your Todoist tasks and quickly create new ones
 
 [Toggl Track](https://www.raycast.com/franzwilhelm/toggl-track) by franzwilhelm - Start and stop time entries with Toggl Track
 
@@ -640,7 +674,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Nippon Colors](https://www.raycast.com/nagauta/nippon-colors) by nagauta - explore nippon colors!
 
-[Openverse](https://www.raycast.com/dhruvkb/openverse) by dhruvkb - Openverse is a search engine for openly-licensed media.
+[Openverse](https://www.raycast.com/openverse/openverse) by openverse - Openverse is a search engine for openly-licensed media.
 
 [Palette Colors](https://www.raycast.com/douglas-pires/palette-colors) by douglas-pires - Pick nice palette colors directly from Raycast
 
@@ -848,7 +882,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Real-Debrid Manager](https://www.raycast.com/Yamen/real-debrid-manager) by Yamen - Real-Debrid client for Raycast NOT AN OFFICIAL CLIENT
 
-[Screen Studio](https://www.raycast.com/pie6k/screen-studio) by pie6k - Raycast extension that allows controlling the Screen Studio app easily
+[Screen Studio](https://www.raycast.com/screen-studio/screen-studio) by screen-studio - Raycast extension that allows controlling the Screen Studio app easily
 
 [JustWatch Search](https://www.raycast.com/rishabswift/search-justwatch) by rishabswift - Quickly find where a movie or tv show is streaming.
 
@@ -904,7 +938,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [YouTube Music](https://www.raycast.com/danieldbird/youtube-music) by danieldbird - Control the YouTube Music tab in browser with your keyboard.
 
-[Zoom](https://www.raycast.com/thomaslombart/zoom) by thomaslombart - Start, schedule and join Zoom meetings.
+[Zoom](https://www.raycast.com/raycast/zoom) by raycast - Start, schedule and join Zoom meetings.
 
 
 ## 📱 Social Media (45)
@@ -984,7 +1018,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Twos Post](https://www.raycast.com/ekafyi/twos) by ekafyi - Add new 'thing' to Twos
 
-[Typefully](https://www.raycast.com/danielferguson/typefully) by danielferguson - The Typefully extension to help you schedule tweets and reach your audience.
+[Typefully](https://www.raycast.com/typefully/typefully) by typefully - The Typefully extension to help you schedule tweets and reach your audience.
 
 [v2ex](https://www.raycast.com/leo/v2ex) by leo - You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your browser. For users in China, proxy access is supported.
 
@@ -1476,7 +1510,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Explain Command](https://www.raycast.com/maantje/explain-command) by maantje - Let ChatGPT explain a command for you
 
-[GetSound](https://www.raycast.com/asgudev/getsound) by asgudev - Get focused with GetSound.AI
+[GetSound](https://www.raycast.com/getsound-ai/getsound) by getsound-ai - Get focused with GetSound.AI
 
 [Huggingcast](https://www.raycast.com/ragnor/huggingcast) by ragnor - Use Huggingface models for summarization, translation, ...
 
@@ -1510,7 +1544,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Ollama AI](https://www.raycast.com/massimiliano_pasquini/raycast-ollama) by massimiliano_pasquini - Perform Local Inference with Ollama
 
-[Reclaim](https://www.raycast.com/lightbody/reclaim-ai) by lightbody - AI scheduling for Google Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar
+[Reclaim](https://www.raycast.com/reclaim-ai/reclaim-ai) by reclaim-ai - AI scheduling for Google Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar
 
 [Remove Background - Powered by Mac](https://www.raycast.com/xmorse/remove-background-powered-by-mac) by xmorse - Remove background from image with the Mac Vision API
 
@@ -1528,7 +1562,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [SiteSpeakAI](https://www.raycast.com/hermanschutte/sitespeakai) by hermanschutte - Train a chatbot on any website or documentation, then get answers in your command bar.
 
-[Stablecog](https://www.raycast.com/yektagg/stablecog) by yektagg - Create amazing art in seconds with AI. Generate and upscale images with Stablecog.
+[Stablecog](https://www.raycast.com/stablecog/stablecog) by stablecog - Create amazing art in seconds with AI. Generate and upscale images with Stablecog.
 
 [StoryTime](https://www.raycast.com/andreaselia/storytime) by andreaselia - Generate a story using OpenAI and Upstash.
 
@@ -1568,7 +1602,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Plausible Analytics](https://www.raycast.com/thebrokenfinger/plausible-analytics) by thebrokenfinger - Get a quick, brief overview of your Plausible Analytics data.
 
-[PostHog](https://www.raycast.com/david_newell/posthog) by david_newell - Open the web app, search for projects, persons, feature flags, and cohorts.
+[PostHog](https://www.raycast.com/posthog/posthog) by posthog - Open the web app, search for projects, persons, feature flags, and cohorts.
 
 [Search R Packages](https://www.raycast.com/grrrck/r-pkg-search) by grrrck - Search and lookup information about R packages using r-pkg.org.
 
@@ -1848,7 +1882,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Pins](https://www.raycast.com/HelloImSteven/pins) by HelloImSteven - Create pins for paths and URLs and display them in the menu bar
 
-[put.io](https://www.raycast.com/altaywtf/putio) by altaywtf - Raycast extension for managing files, transfers, and history events in your put.io account.
+[put.io](https://www.raycast.com/putio/putio) by putio - Raycast extension for managing files, transfers, and history events in your put.io account.
 
 [QR Code Scanner](https://www.raycast.com/StevenRCE0/qr-code-scanner) by StevenRCE0 - Simple on-screen QR code scanner. ("Screen recording" permission is required)
 
@@ -2154,7 +2188,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Naver Search](https://www.raycast.com/magneto/naver-search) by magneto - Naver search extension for Raycast
 
-[Netlify](https://www.raycast.com/destiner/netlify) by destiner - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation.
+[Netlify](https://www.raycast.com/netlify/netlify) by netlify - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation.
 
 [Network Diagnostics](https://www.raycast.com/hmarr/network-diagnostics) by hmarr - View diagnostic information about your network to help figure out why it's playing up.
 
@@ -2166,7 +2200,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [NFT Search](https://www.raycast.com/Glaze/nft-search) by Glaze - Seraching NFT real-time floor price and info by NFT collection name
 
-[Oh Dear](https://www.raycast.com/andreaselia/ohdear) by andreaselia - Manage your Oh Dear sites easy directly from Raycast
+[Oh Dear](https://www.raycast.com/oh-dear/ohdear) by oh-dear - Manage your Oh Dear sites easy directly from Raycast
 
 [Openfortivpn](https://www.raycast.com/rafalpetryka/openfortivpn) by rafalpetryka - Connect to openfortivpn
 
@@ -2192,7 +2226,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Phind Search](https://www.raycast.com/Chuck/phind-search) by Chuck - Search anything with Phind
 
-[Pinata](https://www.raycast.com/stevedylandev/pinata) by stevedylandev - An extension to interact with the Pianta API
+[Pinata](https://www.raycast.com/pinata/pinata) by pinata - An extension to interact with the Pianta API
 
 [Pinboard](https://www.raycast.com/fe9lix/pinboard) by fe9lix - Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then run the command ✨
 
@@ -2200,7 +2234,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [PlanetScale](https://www.raycast.com/vimtor/planetscale) by vimtor - Manage PlanetScale from Raycast
 
-[Ploi](https://www.raycast.com/ploi-deploy/ploi) by ploi-deploy - View and manage your ploi.io servers and sites
+[Ploi](https://www.raycast.com/ploi/ploi) by ploi - View and manage your ploi.io servers and sites
 
 [Porkbun](https://www.raycast.com/xmok/porkbun) by xmok - Interact with Porkbun with the help of Raycast
 
@@ -2234,7 +2268,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Render](https://www.raycast.com/destiner/render) by destiner - View your Render services, deploys, and custom domains
 
-[Resmo](https://www.raycast.com/ozgunarslantas/resmo) by ozgunarslantas - Search all resources across Cloud and SaaS
+[Resmo](https://www.raycast.com/resmo/resmo) by resmo - Search all resources across Cloud and SaaS
 
 [RunCloud](https://www.raycast.com/itsjustxan/runcloud) by itsjustxan - Search Your RunCloud Servers + Webapps
 
@@ -2258,7 +2292,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [SSH Tunnel Manager](https://www.raycast.com/MinatoHikari/ssh-tunnel-manager) by MinatoHikari - Manage ssh tunnels
 
-[Tailscale](https://www.raycast.com/samlinville/tailscale) by samlinville - List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard.
+[Tailscale](https://www.raycast.com/tailscale/tailscale) by tailscale - List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard.
 
 [Teleport](https://www.raycast.com/lamberttraccard/teleport) by lamberttraccard - Interact with teleport, the open infrastructure access platform
 
@@ -2290,7 +2324,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Web3.bio](https://www.raycast.com/web3bio/web3bio) by web3bio - Discover Web3 Identity Graph and Profiles
 
-[WhiteBIT Exchange](https://www.raycast.com/marco-whitebit/whitebit) by marco-whitebit - WhiteBIT exchange Raycast extension
+[WhiteBIT Exchange](https://www.raycast.com/whitebit-exchange/whitebit) by whitebit-exchange - WhiteBIT exchange Raycast extension
 
 [Whois](https://www.raycast.com/zavbala/whois) by zavbala - Retrieve whois data.
 
@@ -2300,11 +2334,11 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 
 ## 🌐 Browsers (30)
-[Arc](https://www.raycast.com/thomas/arc) by thomas - Search and quickly navigate Arc's history and open tabs.
+[Arc](https://www.raycast.com/the-browser-company/arc) by the-browser-company - Search and quickly navigate Arc's history and open tabs.
 
 [Brave](https://www.raycast.com/ron-myers/brave) by ron-myers - Search open tabs, bookmarks and history in Brave.
 
-[Browser Bookmarks](https://www.raycast.com/thomaslombart/browser-bookmarks) by thomaslombart - Integrate bookmarks from Chrome, Brave, Edge, Firefox, Safari, Arc or Vivaldi.
+[Browser Bookmarks](https://www.raycast.com/raycast/browser-bookmarks) by raycast - Integrate bookmarks from Chrome, Brave, Edge, Firefox, Safari, Arc or Vivaldi.
 
 [Browser History](https://www.raycast.com/crisboarna/browser-history) by crisboarna - Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion and Sidekick.
 
@@ -2352,7 +2386,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [VivaPB](https://www.raycast.com/Codrkoaz/vivapb) by Codrkoaz - Browse the web in privacy with the Vivaldi Browser.
 
-[Warp](https://www.raycast.com/joetannenbaum/warp) by joetannenbaum - Open Warp tabs/windows and launch configurations.
+[Warp](https://www.raycast.com/warpdotdev/warp) by warpdotdev - Open Warp tabs/windows and launch configurations.
 
 [WebKit Developer Documentation](https://www.raycast.com/KevinBatdorf/webkit-developer-docs) by KevinBatdorf - Search and view WebKit docs
 
@@ -2604,7 +2638,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Devdocs](https://www.raycast.com/pomdtr/devdocs) by pomdtr - Search through DevDocs documentation sets from Raycast.
 
-[DevUtils](https://www.raycast.com/vietanhlehuu/devutils) by vietanhlehuu - Navigate DevUtils faster with this All-in-one Toolbox for Developers
+[DevUtils](https://www.raycast.com/devutils/devutils) by devutils - Navigate DevUtils faster with this All-in-one Toolbox for Developers
 
 [Diff Checker](https://www.raycast.com/destiner/diff-checker) by destiner - Compare content of two texts
 
@@ -2660,7 +2694,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Gitfox Repositories](https://www.raycast.com/azlekov/gitfox) by azlekov - Navigate and open your repositories in Gitfox.
 
-[GitHub](https://www.raycast.com/thomaslombart/github) by thomaslombart - Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications
+[GitHub](https://www.raycast.com/raycast/github) by raycast - Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications
 
 [GitHub CLI Manual](https://www.raycast.com/demartini/github-cli-manual) by demartini - Raycast extension to search GitHub CLI Manual.
 
@@ -2696,7 +2730,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Gradle Plugins](https://www.raycast.com/alex-w0/gradle-plugins) by alex-w0 - Search for gradle plugins
 
-[Grafbase](https://www.raycast.com/mlafeldt/grafbase) by mlafeldt - Explore your Grafbase projects, branches, deployments, and commit history.
+[Grafbase](https://www.raycast.com/grafbase/grafbase) by grafbase - Explore your Grafbase projects, branches, deployments, and commit history.
 
 [Greip](https://www.raycast.com/ghadeer/greip) by ghadeer - Use endpoint from greip.io directly from Raycast
 
@@ -2784,7 +2818,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Markdown Table Generator](https://www.raycast.com/Visual-Studio-Coder/markdown-table-generator) by Visual-Studio-Coder - Specify your width and height, and receive a markdown table that you can input your own values into.
 
-[Markprompt](https://www.raycast.com/nickrttn/markprompt) by nickrttn - Prompt your Markprompt project from Raycast
+[Markprompt](https://www.raycast.com/markprompt/markprompt) by markprompt - Prompt your Markprompt project from Raycast
 
 [Maven Central Repository](https://www.raycast.com/koinzhang/maven-central-repository) by koinzhang - Official search by the maintainers of Maven Central Repository.
 
@@ -2874,7 +2908,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Airtable](https://www.raycast.com/marks/raycast-airtable-extension) by marks - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs.
 
-[Raycast Explorer](https://www.raycast.com/thomaslombart/raycast-explorer) by thomaslombart - Explore snippets, prompts, and custom themes from within Raycast.
+[Raycast Explorer](https://www.raycast.com/raycast/raycast-explorer) by raycast - Explore snippets, prompts, and custom themes from within Raycast.
 
 [NPM Registry Manager](https://www.raycast.com/lihzsky/raycast-nrm) by lihzsky - Change the NPM registry address
 
@@ -2966,7 +3000,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Storybook Search](https://www.raycast.com/nakaakist/storybook-search) by nakaakist - Search components in Storybook
 
-[Supabase Documentation](https://www.raycast.com/Isaiah-Hamilton/supabase-docs) by Isaiah-Hamilton - Quickly search Supabase documentation and open it in the browser
+[Supabase Documentation](https://www.raycast.com/supabase/supabase-docs) by supabase - Quickly search Supabase documentation and open it in the browser
 
 [Search Svelte Docs](https://www.raycast.com/paolo_ricciuti/svelte-docs) by paolo_ricciuti - Search the svelte docs directly in Raycast
 
@@ -3010,7 +3044,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Val Town](https://www.raycast.com/KevinBatdorf/val-town) by KevinBatdorf - View and run your vals and search others' vals
 
-[Vercel](https://www.raycast.com/MaxLeiter/vercast) by MaxLeiter - View and modify your Vercel projects and deployments.
+[Vercel](https://www.raycast.com/vercel/vercast) by vercel - View and modify your Vercel projects and deployments.
 
 [Verify Number](https://www.raycast.com/xmok/verify-number) by xmok - Global Phone Number Validation & Lookup JSON API from APILayer
 
