@@ -2240,7 +2240,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Power Management](https://www.raycast.com/sasivarnan/power-management) by sasivarnan - Change Power Management Settings of the system
 
-[Proton Version](https://www.raycast.com/flavien.bonvin/proton-version) by flavien.bonvin - Keep track of the lastest version of Proton products
+[Proton Version](https://www.raycast.com/flavien.bonvin/proton-version) by flavien.bonvin - Keep track of the latest version of Proton products
 
 [Proxmox](https://www.raycast.com/CzBiX/proxmox) by CzBiX - Manage your Proxmox server from Raycast
 
