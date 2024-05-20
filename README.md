@@ -2,6 +2,11 @@
 
 Welcome to this unofficial directory of Raycast Extensions! This repository aims to simplify the discovery of new extensions and enhance your experience with the powerful tool that Raycast is.
 
+| ❤️ Love this repository?                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------- |
+| [Consider donating money for the kids battling cancer charity](https://rejestracja.maratonwarszawski.com/pl/charity/18405) |
+
+
 ## 📘 About This Repository
 This project organizes extensions from the official [Raycast Extensions](https://github.com/raycast/extensions) repository into categories, making it easier for users to find tools that match their needs. Please note that all descriptions and names of the extensions are sourced directly from the official repository.
 
