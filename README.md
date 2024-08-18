@@ -2,11 +2,6 @@
 
 Welcome to this unofficial directory of Raycast Extensions! This repository aims to simplify the discovery of new extensions and enhance your experience with the powerful tool that Raycast is.
 
-| ❤️ Love this repository?                                                                                                  |
-| :------------------------------------------------------------------------------------------------------------------------- |
-| [Consider donating money for the kids battling cancer charity](https://rejestracja.maratonwarszawski.com/pl/charity/18405) |
-
-
 ## 📘 About This Repository
 This project organizes extensions from the official [Raycast Extensions](https://github.com/raycast/extensions) repository into categories, making it easier for users to find tools that match their needs. Please note that all descriptions and names of the extensions are sourced directly from the official repository.
 
@@ -22,69 +17,348 @@ Please note that this is an **unofficial** repository and not directly affiliate
 I hope this repository helps you make the most out of Raycast. Explore, enjoy, and don't hesitate to contribute!
 
 ## Table of Contents
-- [Categorized Raycast Extensions](#categorized-raycast-extensions)
-  - [📘 About This Repository](#-about-this-repository)
-  - [🗂 Categories](#-categories)
-  - [🙌 Contributing](#-contributing)
-  - [⚠️ Disclaimer](#️-disclaimer)
-  - [Table of Contents](#table-of-contents)
-- [Raycast Extensions (1513 in total)](#raycast-extensions-1513-in-total)
-  - [🌟 New from the Last Week (15)](#-new-from-the-last-week-15)
-  - [💼 Business (95)](#-business-95)
-  - [🚀 Productivity (149)](#-productivity-149)
-  - [🎨 Design (100)](#-design-100)
-  - [🎵 Audio, Video, Images (86)](#-audio-video-images-86)
-  - [📱 Social Media (45)](#-social-media-45)
-  - [📚 Education (101)](#-education-101)
-  - [🎭 Entertainment (66)](#-entertainment-66)
-  - [🌟 Lifestyle (37)](#-lifestyle-37)
-  - [🔬 Science (15)](#-science-15)
-  - [🤖 AI \& ML (52)](#-ai--ml-52)
-  - [📊 Data Analysis (18)](#-data-analysis-18)
-  - [♿️ Accessibility (9)](#️-accessibility-9)
-  - [⚙️ Automation (13)](#️-automation-13)
-  - [🛠️ Utilities (166)](#️-utilities-166)
-  - [💻 Technology (169)](#-technology-169)
-  - [🌐 Browsers (30)](#-browsers-30)
-  - [🔒 Security (62)](#-security-62)
-  - [🛠️ Developer Tools (285)](#️-developer-tools-285)
+- [🌟 New from the Last Update... (158)](#new-from-the-last-week)
+- [💼 Business (95)](#business)
+- [🚀 Productivity (149)](#productivity)
+- [🎨 Design (100)](#design)
+- [🎵 Audio, Video, Images (86)](#audio-video-images)
+- [📱 Social Media (45)](#social-media)
+- [📚 Education (101)](#education)
+- [🎭 Entertainment (66)](#entertainment)
+- [🌟 Lifestyle (37)](#lifestyle)
+- [🔬 Science (15)](#science)
+- [🤖 AI & ML (52)](#ai-ml)
+- [📊 Data Analysis (18)](#data-analysis)
+- [♿️ Accessibility (9)](#accessibility)
+- [⚙️ Automation (13)](#automation)
+- [🛠️ Utilities (165)](#utilities)
+- [💻 Technology (169)](#technology)
+- [🌐 Browsers (30)](#browsers)
+- [🔒 Security (62)](#security)
+- [🛠️ Developer Tools (285)](#developer-tools)
 
 
-# Raycast Extensions (1513 in total)
+# Raycast Extensions (1655 in total)
 
-## 🌟 New from the Last Week (15)
+## 🌟 New from the Last Update (158)
 
 [^  Back to Top  ^](#table-of-contents)
 
+[5Devs](https://www.raycast.com/gustavofior/5devs) by gustavofior - Get realistic data for testing purposes.
+
+[AdonisJS Documentation](https://www.raycast.com/craigharman/adonisjs-documentation) by craigharman - Access AdonisJS documentation from within Raycast
+
+[Aegis Authenticator](https://www.raycast.com/bfayers/aegis) by bfayers - Search, sync and use your Aegis 2FA database with Raycast
+
 [Aerospace Tiling Window Manager](https://www.raycast.com/limonkufu/aerospace) by limonkufu - Aerospace Tiling Window Manager Extension for Raycast to see and configure your shortcuts
+
+[AI Screenshot](https://www.raycast.com/jochemloedeman/ai-screenshot) by jochemloedeman - Modify screen captures using the latest generative AI models.
+
+[AList Downloder](https://www.raycast.com/SGGb0nd/alist-downloder) by SGGb0nd - Mini AList downloader in Raycast
+
+[Alpaca Trading](https://www.raycast.com/stelo/alpaca-trading) by stelo - Interact with your Alpaca trading account
 
 [Alt-Text Generator](https://www.raycast.com/jack_casica/alt-text-generator) by jack_casica - This extension makes it easy to generate descriptive alt-text for images. Simply provide an image URL, and the extension will make a call to the openai api to create a concise and descriptive alt text. This extension is Bring-Your-Own-Key (support for OpenAI only at the moment). If you don't have an API key yet, you can sign up for one at [OpenAI - Api Keys](https://platform.openai.com/api-keys).
 
+[Android Versions](https://www.raycast.com/bruce3x/android-versions) by bruce3x - Search quickly between Android version number, API level, codename.
+
+[Anki](https://www.raycast.com/anton-suprun/anki) by anton-suprun - Anki extension for Raycast
+
+[Anna's Archive](https://www.raycast.com/j3lte/anna-s-archive) by j3lte - Search Anna's Archive, the largest truly open library in human history
+
+[App Icon Generator](https://www.raycast.com/HunterJi/app-icon-generator) by HunterJi - Generate app icons for ICO, iOS, iPad, and macOS from a single image file
+
+[Arabic Keyboard](https://www.raycast.com/mSarheed/arabic-keyboard) by mSarheed - Arabic Keyboard for Raycast
+
+[Array This](https://www.raycast.com/matheus_de_paula_domingos/array-this) by matheus_de_paula_domingos - Format list of items into an array.
+
+[A Song of Ice and Fire](https://www.raycast.com/xmok/asoiaf) by xmok - Explore Books, Characters and Houses in the ASOIAF/GoT Universe
+
+[Asset Catalog Extractor](https://www.raycast.com/chrismessina/asset-catalog-extractor) by chrismessina - Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer
+
+[Backstage](https://www.raycast.com/yukukotani/backstage) by yukukotani - Shortcuts for Backstage
+
 [Badges - shields.io](https://www.raycast.com/litomore/badges) by litomore - Concise, consistent, and legible badges.
+
+[Balatro Compendium](https://www.raycast.com/azyz/balatro-compendium) by azyz - Search through every piece of the Balatro collection entierly inside Raycast. Even offline.
+
+[Battery Optimizer](https://www.raycast.com/Qetesh/battery-optimizer) by Qetesh - Keep the battery healthy by limiting the charging capacity.
+
+[Bech32 Converter](https://www.raycast.com/zygimantas_magelinskas/bech32-converter) by zygimantas_magelinskas - Converts Cosmos Bech32 addresses to a desired prefix
+
+[Bed Time Calculator](https://www.raycast.com/khlebobul/bed-time-calculator) by khlebobul - This is a simple extension for Raycast that will help you calculate the best time to sleep or wake up.
 
 [Bored](https://www.raycast.com/BossElijah/bored) by BossElijah - Let's find you something to do!
 
-[Browser AI](https://www.raycast.com/lin/browser-ai) by lin - Use Perplexity models and Raycast Browser Extension to extend your browsing.
+[Brand.dev](https://www.raycast.com/xmok/brand-dev) by xmok - Get a company's brand logos, colors, slogan, socials, and more.
+
+[Brave Search with Results](https://www.raycast.com/electerious/brave-search-with-results) by electerious - Search Brave and get direct results
+
+[Browser AI Companion](https://www.raycast.com/lin/browser-ai) by lin - Use the best models with Raycast Browser Extension to extend your browsing experience.
+
+[Browser Tabs](https://www.raycast.com/koinzhang/browser-tabs) by koinzhang - Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc.
+
+[Check Citi Bike Availability](https://www.raycast.com/kcole93/check-citi-bike-availability) by kcole93 - Check the availability of bikes/e-bikes at CitiBike NYC stations.
+
+[Chords and Tabs](https://www.raycast.com/BossElijah/chords-and-tabs) by BossElijah - Find chords and tabs for your favorite songs and musical pieces!
+
+[Clarify](https://www.raycast.com/akramarev/clarify) by akramarev - Interact with Clarify CRM directly from your command bar
+
+[Clean Keyboard](https://www.raycast.com/ike-gg/clean-keyboard) by ike-gg - Lock your keyboard to clean it easily.
+
+[Clipboard Utilities](https://www.raycast.com/csharp/clipboard-utilities) by csharp - A bunch of utilities for actions that require multiple items in the clipboard history
+
+[Code Smells Search](https://www.raycast.com/omorest/code-smells) by omorest - Discover all code smells and how to solve them based on Code Smells Catalog created by Marcel J.
+
+[Color Hunt](https://www.raycast.com/Lemon/color-hunt) by Lemon - Color Palettes for Designers and Artists
+
+[cPanel](https://www.raycast.com/xmok/cpanel) by xmok - View Domains and their DNS Zones, Email Accounts and their Disk Usage
+
+[Crisp](https://www.raycast.com/xmorse/crisp) by xmorse - Manage Crisp conversations quickly, all websites conversations in one place
+
+[CSS Tricks](https://www.raycast.com/j3lte/css-tricks) by j3lte - Search on CSS Tricks
+
+[Custom Folder](https://www.raycast.com/phlo/custom-folder) by phlo - Create custom MacOS folder images.
 
 [Datawrapper](https://www.raycast.com/benkates/datawrapper) by benkates - An unofficial extension for searching your Datawrapper charts, viewing recent Datawrapper charts, and other handy functions.
 
+[Disk Utility](https://www.raycast.com/stelo/diskutil) by stelo - Create, list and delete Apple File System (APFS) disk volumes
+
+[Dog Images](https://www.raycast.com/BossElijah/dog-images) by BossElijah - Get a random photo of a dog.
+
+[DolarCripto AR](https://www.raycast.com/manuel_de_la_torre/dolar-cripto-ar) by manuel_de_la_torre - DolarCripto AR es una extensión para Raycast que te permite visualizar en tiempo real las cotizaciones de los diferentes dólares en Argentina (CCL, MEP y Blue) y de criptomonedas populares (ETH, BTC) directamente en la barra de menú de tu Mac.
+
+[Dub](https://www.raycast.com/dubinc/dub) by dubinc - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast.
+
+[Duck Facts](https://www.raycast.com/validate/duck-facts) by validate - Displays interesting facts about ducks.
+
+[Dungeons & Dragons](https://www.raycast.com/Rob/dungeons-dragons) by Rob - All things DND 5e
+
+[Eudic](https://www.raycast.com/tears330/eudic) by tears330 - Intetract with Eudic, seach any word via Raycast
+
+[Evil Insult](https://www.raycast.com/j3lte/evil-insult) by j3lte - Generate Evil Insults
+
+[Freesound](https://www.raycast.com/j3lte/freesound) by j3lte - Search the Freesound Library
+
+[Genius Lyrics](https://www.raycast.com/tkdkid1000/genius-lyrics) by tkdkid1000 - Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API.
+
+[Golden Ratio](https://www.raycast.com/yang_monch/golden-ratio) by yang_monch - Gold ratio and silver ratio calculation tool
+
+[Google Cloud Run](https://www.raycast.com/bhavya_muni/google-cloud-run) by bhavya_muni - Commands for Google Cloud Run
+
+[GraphCalc](https://www.raycast.com/conner_luzier/graphcalc) by conner_luzier - GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortlessly plot functions, equations, and data points directly within the Raycast interface.
+
+[SupaHabits](https://www.raycast.com/gbarba/habits) by gbarba - Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries
+
+[Helldivers2](https://www.raycast.com/alexstrnik/helldivers2) by alexstrnik - View Galactic War Status from Helldivers II
+
+[HestiaCP Admin](https://www.raycast.com/xmok/hestiacp-admin) by xmok - Manage Users, Domains, Mail Domains, Databases, and more, in your HestiaCP isntance
+
+[Homepage](https://www.raycast.com/bgiovand/homepage) by bgiovand - Homepage services and bookmarks in Raycast
+
+[Horoscope](https://www.raycast.com/xmok/horoscope) by xmok - Get Daily, Weekly or Monthly Horoscope by Sign
+
 [Hugging Face](https://www.raycast.com/crisboarna/hugging-face) by crisboarna - Search and explore the Hugging Face platform
+
+[ICD10 Lookup](https://www.raycast.com/ubergraham/icd10-lookup) by ubergraham - Shows matching ICD10 codes based on disease name input. Uses NLM's ICD10 API.
 
 [iLovePDF](https://www.raycast.com/mohamedk1/ilovepdf) by mohamedk1 - Set of commands to interact with iLovePDF
 
+[Incident.io](https://www.raycast.com/nkl/incident-io) by nkl - Gets the incidents from Incident.io
+
+[Invoice Generator](https://www.raycast.com/alexs/invoice-generator) by alexs - Create invoices using the Invoice Generator API.
+
 [IPA Translator](https://www.raycast.com/BossElijah/ipa-translator) by BossElijah - Converts text to IPA (International Phonetic Alphabet)
+
+[Johnny.Decimal](https://www.raycast.com/x0ba/johnny-decimal) by x0ba - Search and manage Johnny.Decimal system.
+
+[Just Breathe](https://www.raycast.com/khlebobul/just-breathe) by khlebobul - An instrument for relaxation through breathing
+
+[Keyboard Win Mac Switch](https://www.raycast.com/fab_uleuh/keyboard-win-mac-switch) by fab_uleuh - This extension allow you to switch alt and window keys
+
+[Klack](https://www.raycast.com/henrikruscon/klack) by henrikruscon - Control Klack for macOS with Raycast
+
+[Read Later](https://www.raycast.com/jimluo/later) by jimluo - Read your tabs later
+
+[Launch Agents](https://www.raycast.com/stevensd2m/launch-agents) by stevensd2m - Manage Launch Agents
+
+[LEGO Bricks](https://www.raycast.com/mSarheed/lego-bricks) by mSarheed - Look up LEGO sets, colors, bricks etc.
+
+[AT Protocol Lexicon Search](https://www.raycast.com/ftrstk/lexicon-search) by ftrstk - Quickly look up atproto lexicons.
+
+[Linkwarden](https://www.raycast.com/leodbrs/linkwarden) by leodbrs - This extension allows you to manage your Linkwarden bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly.
 
 [Literal](https://www.raycast.com/OkanBilal/literal) by OkanBilal - Track and edit your reading progress from your command bar
 
+[The Lord of the Rings](https://www.raycast.com/xmok/lotr) by xmok - Books, Characters, Movies and Quotes via The One API
+
+[Lucky Surf](https://www.raycast.com/popalay/lucky-surf) by popalay - Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and efficiently
+
+[MAMP Utility](https://www.raycast.com/SuoweiHu/mamp-utility) by SuoweiHu - Search and organize your MAMP hosted website.
+
+[Mandarin Chinese Dictionary](https://www.raycast.com/CofCat/mandarin-chinese-dictionary) by CofCat - Mandarin Chinese Dictionary
+
+[MapleStory.gg](https://www.raycast.com/litomore/maplestory-gg) by litomore - MapleStory's Definitive Database.
+
+[Markdown to Rich Text](https://www.raycast.com/ning_cao_cabeza/markdown-to-rich-text) by ning_cao_cabeza - Converts Markdown text from the clipboard to Rich text and pastes it.
+
+[Menubar Calendar](https://www.raycast.com/koinzhang/menubar-calendar) by koinzhang - Show calendar and reminders in the menu bar.
+
+[Mikrus](https://www.raycast.com/tkowalski29/mikrus) by tkowalski29 - Integration with mikr.us
+
+[Minecraft Color Codes](https://www.raycast.com/lafkpages/minecraft-color-codes) by lafkpages - View and copy Minecraft chat color codes.
+
+[Minecraft Crafting Recipes](https://www.raycast.com/lafkpages/minecraft-crafting-recipes) by lafkpages - Quickly find recipes for Minecraft crafting.
+
+[Modrinth Search](https://www.raycast.com/legenden/modrinth-search) by legenden - Searches Modrinth.com for anything listed.
+
 [Mozilla VPN Connect](https://www.raycast.com/natew/mozilla-vpn) by natew - Interact with the Mozilla VPN from Raycast.
+
+[MultiForce](https://www.raycast.com/brian_j_decoder22/multi-force) by brian_j_decoder22 - Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools.
+
+[NameSilo](https://www.raycast.com/xmok/namesilo) by xmok - View your Domains, Orders, Whois Info and Account Balance
+
+[Network Drive](https://www.raycast.com/SuoweiHu/network-drive) by SuoweiHu - List the available drive of a specified IP address (via SMB), mount and unmount those drives.
+
+[NHK Program Search](https://www.raycast.com/sitogi/nhk-program-search) by sitogi - Search NHK program guide by NHK API
+
+[nowplaying-cli](https://www.raycast.com/yusuf_akdeniz/nowplaying-cli) by yusuf_akdeniz - It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features
+
+[Number Facts](https://www.raycast.com/BossElijah/number-facts) by BossElijah - Get facts about numbers, dates, and years
+
+[Okta Search](https://www.raycast.com/damian_zachwieja/oktasearch) by damian_zachwieja - Serach Okta users and groups by name.
+
+[Olympic Games](https://www.raycast.com/elonwoo/olympic-games) by elonwoo - Paris 2024 Olympic Medal Table
+
+[OneLook Thesaurus](https://www.raycast.com/FelipeCortez/onelook-thesaurus) by FelipeCortez - A powerful English thesaurus and brainstorming tool that lets you describe what you're looking for in plain terms.
 
 [Open Folders](https://www.raycast.com/timothy_boye/open-folders) by timothy_boye - Open your common files and folders quickly!
 
+[Open Laravel Herd Site](https://www.raycast.com/medienbaecker/open-laravel-herd-site) by medienbaecker - Lists all your Laravel Herd sites and allows you to open them in Visual Studio Code, Finder or your browser.
+
+[Ottomatic](https://www.raycast.com/eluce2/ottomatic) by eluce2 - Manage your Ottomatic servers and projects
+
+[Outline Document Search](https://www.raycast.com/dnlfrst/outline-document-search) by dnlfrst - Search documents in multiple instances of Outline.
+
+[Pagespeed](https://www.raycast.com/vorillaz/pagespeed) by vorillaz - A simple extension that reports page speed insights based on page-speed.dev
+
+[Pass](https://www.raycast.com/capipo/pass) by capipo - An extension to handle the standard unix password manager in a convenient way using Raycast
+
+[Password Store](https://www.raycast.com/afok/password-store) by afok - A Raycast Extension for managing passwordstore.org passwords
+
+[Photoroom Image Editing](https://www.raycast.com/ubuntudroid/photoroom-image-editing) by ubuntudroid - Official Photoroom Raycast extension. Resize images, remove and change the background, add shadows and much more!
+
+[Pieces for Raycast](https://www.raycast.com/pieces_dev/pieces-raycast) by pieces_dev - Pieces for Developers Raycast Extension
+
+[Pinch SVG](https://www.raycast.com/connorforsyth/pinch-svg) by connorforsyth - Generate pixel spacing increments and references in a pinch using SVGs.
+
+[PiP](https://www.raycast.com/koinzhang/pip) by koinzhang - Watch video in Picture in Picture or Full Screen mode
+
+[Plex](https://www.raycast.com/mSarheed/plex) by mSarheed - View the media in your Plex Media Server
+
+[PM2](https://www.raycast.com/litomore/pm2) by litomore - Advanced, production process manager for Node.js.
+
+[Potter DB](https://www.raycast.com/xmok/potter-db) by xmok - Dive into the magical world of Harry Potter via Potter DB.
+
+[Python](https://www.raycast.com/ahmedivy/python) by ahmedivy - Search Python Packages on PyPi
+
+[Rabbit Hole](https://www.raycast.com/Rob/rabbit-hole) by Rob - Discover and manage information your Rabbit r1 has saved in your rabbit hole journal.
+
+[Random Fart](https://www.raycast.com/szy.fr/random-fart) by szy.fr - Plays a random fart sound. An extension nobody asked for and nobody needed.
+
+[Raycast MonkeyType Theme Explorer](https://www.raycast.com/ridemountainpig/raycast-monkeytype-theme) by ridemountainpig - This "Raycast MonkeyType Theme" extension provides MonkeyType themes for Raycast.
+
+[Motion Preview](https://www.raycast.com/ayarse/raycast-motion-preview) by ayarse - Preview Lottie and Rive Animations in Raycast
+
+[Norwegian Public Transport](https://www.raycast.com/rosvik/raycast-norwegian-public-transport) by rosvik - Real-time departures for Norwegian public transport. Data made available by Entur.
+
+[Raycast Notification](https://www.raycast.com/maxnyby/raycast-notification) by maxnyby - This extension makes it easy to display Raycast notifications via a quicklink, making the Raycast interface accessible to other applications or scripts
+
+[Raycaster](https://www.raycast.com/stevedylandev/raycaster) by stevedylandev - Send casts to Farcaster from Raycast
+
+[Dutch License Plate Search](https://www.raycast.com/jeffreyvanhees/rdw-kentekencheck) by jeffreyvanhees - Shows details about Dutch cars by their license plate
+
+[Recent Excel - Show Recent Excel Files](https://www.raycast.com/aradbm/recent-excel) by aradbm - Shows recent excel files
+
+[Rectangle](https://www.raycast.com/crickford/rectangle) by crickford - Integration with Rectangle
+
+[Refresh Browsers](https://www.raycast.com/koinzhang/refresh-browsers) by koinzhang - Refresh all browser tabs
+
 [RelaGit](https://www.raycast.com/TheCommieAxolotl/relagit) by TheCommieAxolotl - Interact with your RelaGit projects, straight from Raycast.
+
+[Restart System Processes](https://www.raycast.com/muzhen_gaming/restart-system-processes) by muzhen_gaming - Restart system processes such as Finder, Dock, Menu Bar, Audio and more!
+
+[Retrac](https://www.raycast.com/adi_amar/retrac) by adi_amar - Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast.
+
+[Rick and Morty](https://www.raycast.com/xmok/rick-and-morty) by xmok - Access characters, images, locations and episodes from the television show "Rick and Morty"
 
 [Running Page](https://www.raycast.com/Lemon/running-page) by Lemon - running_page project extension
 
+[Say - Spoken Content](https://www.raycast.com/litomore/say) by litomore - Use the macOS built-in text-to-speech to say the text you provide.
+
+[Scrapbook](https://www.raycast.com/fakerr/scrapbook) by fakerr - View hackclub's scrapbook posts and users from raycast.
+
+[Scratchpad](https://www.raycast.com/asnimansari/scratchpad) by asnimansari - Creates a scratchpad file and opens it in an editor
+
+[SCSS Compile](https://www.raycast.com/SuoweiHu/scss-compile) by SuoweiHu - Utility that convert SCSS (Sassy Cascading Style Sheets) file into CSS file
+
+[Shadcn/Svelte](https://www.raycast.com/selemondev/shadcn-svelte) by selemondev - Browses shadcn/svelte documentation, components, and commands.
+
+[Shadcn/Vue](https://www.raycast.com/selemondev/shadcn-vue) by selemondev - Browses shadcn/vue documentation, components, and commands.
+
+[Shakespearify](https://www.raycast.com/Binary-Bytes/shakespearify) by Binary-Bytes - Convert plain boring English text to something like Shakespeare would write!
+
+[Shell History](https://www.raycast.com/koinzhang/shell-history) by koinzhang - Search shell command history from zsh, bash, and fish.
+
+[Speedcubing](https://www.raycast.com/samuelkraft/speedcubing) by samuelkraft - Time your solves, look up notations and algorithms
+
+[Main Library in University of St Andrews](https://www.raycast.com/Harry_Huang/st-andrews-main-library-occupancy) by Harry_Huang - How busy is the main library now?
+
+[Stickies](https://www.raycast.com/koinzhang/stickies) by koinzhang - Search and show macOS's built-in Stickies via Raycast
+
+[Streamshare Uploader](https://www.raycast.com/PandaDEV/streamshare-uploader) by PandaDEV - Upload files to streamshare.
+
+[Swift REPL](https://www.raycast.com/nakajima/swift-repl) by nakajima - Run lil swift snippets
+
+[TeslaMate](https://www.raycast.com/mSarheed/teslamate) by mSarheed - View your TeslaMate data in Raycast
+
+[The Nobel Prize](https://www.raycast.com/xmok/the-nobel-prize) by xmok - Information about the Nobel Prizes and the Nobel Prize Laureates
+
+[Time Machine](https://www.raycast.com/SuoweiHu/time-machine) by SuoweiHu - This extension is built to integrate MacOS system backup utility "TimeMachine" with Raycast. With the help of tmutil CLI Utility, it offers users the ability to control their backups with ease.
+
+[Timezone Buddy](https://www.raycast.com/andrebreia/timezone-buddy) by andrebreia - Show friends in other timezones
+
+[Toncoin (TON) Price](https://www.raycast.com/arthurn/toncoin-price) by arthurn - Keep an eye on Toncoin (TON) cryptocurrency price directly from your system menu bar
+
+[Trakt Manager](https://www.raycast.com/thesobercoder/trakt-manager) by thesobercoder - Control your Trakt account directly from Raycast
+
+[Trovu - Web Search Command Line](https://www.raycast.com/jorges/trovu) by jorges - Search 1000+ websites in a command-line way, with curated and personal shortcuts, organized by namespaces, allowing multiple and typed arguments, with full privacy.
+
+[U301 URL Shortener](https://www.raycast.com/shiny/u301-url-shortener) by shiny - Shorten URL using u301 service
+
+[Ugly Face](https://www.raycast.com/Lemon/ugly-face) by Lemon - Generate ugly face
+
+[United Nations](https://www.raycast.com/litomore/united-nations) by litomore - Peace, dignity and equality on a healthy planet.
+
+[Universal Commands](https://www.raycast.com/cyxn/universal-commands) by cyxn - Runs configurable application shortcut depending on the frontmost application.
+
+[UploadThing](https://www.raycast.com/pingdotgg/uploadthing) by pingdotgg - Upload files in a single click
+
+[Video Call Reactions](https://www.raycast.com/yazanzaid00/video-call-reactions) by yazanzaid00 - This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS.
+
+[Vocabula.lat](https://www.raycast.com/silencesys/vocabula-lat) by silencesys - An extension to look for words and abbreviations in the Vocabula.lat Latin dictionary
+
+[Week Number](https://www.raycast.com/koinzhang/week-number) by koinzhang - Show the current week of the year.
+
+[Who Is off Today?](https://www.raycast.com/pejman_yaghmaie/who-is-off-today) by pejman_yaghmaie - See who is off today from remote.com
+
+[WordPress Icon Finder](https://www.raycast.com/javierarce/wordpress-icon-finder) by javierarce - It help you search icons from the WordPress Icons Library.
+
+[Yoink](https://www.raycast.com/koinzhang/yoink) by koinzhang - Add selected or clipboard files to Yoink.
+
 [YouTube Shorts to Normal Video Page](https://www.raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/youtube-shorts-to-normal-video-page) by b6pzeusbc54tvhw5jgpyw8pwz2x6gs - One click to convert YouTube shorts url to regular url
+
+[Zefix](https://www.raycast.com/cmdr/zefix) by cmdr - A Raycast extension that looks up companies in the Swiss national trade register
 
 
 ## 💼 Business (95)
@@ -201,7 +475,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Pipedrive Search](https://www.raycast.com/ahp/pipedrive) by ahp - Search Pipedrive deals, people and organizations
 
-[Productboard](https://www.raycast.com/honzatmn/productboard) by honzatmn - Add notes to Productboard quickly. Supports markdown.
+[Productboard](https://www.raycast.com/honzatmn/productboard) by honzatmn - Add and view notes in Productboard quickly. Supports markdown.
 
 [Productlane](https://www.raycast.com/dimagrossman/productlane) by dimagrossman - Quickly add insights to Productlane
 
@@ -340,7 +614,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Drafts](https://www.raycast.com/FlohGro/drafts) by FlohGro - integrate Raycast with Drafts app
 
-[Drupal.org](https://www.raycast.com/hussainweb/drupal-org) by hussainweb - Get change records from drupal.org
+[Drupal.org](https://www.raycast.com/hussainweb/drupal-org) by hussainweb - Get information from drupal.org
 
 [Drupal Toolbox](https://www.raycast.com/emircanerkul/drupal-toolbox) by emircanerkul - Valuable tools and shortcuts for your Drupal Websites
 
@@ -830,7 +1104,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Holodex](https://www.raycast.com/uetchy/holodex) by uetchy - Search live streams, archives, clips and channels in Holodex.
 
-[I Don't Have Spotify](https://www.raycast.com/sjdonado/idonthavespotify) by sjdonado - Find Spotify Links to YouTube, Deezer, Apple Music, Tidal and Soundcloud
+[I Don't Have Spotify](https://www.raycast.com/sjdonado/idonthavespotify) by sjdonado - Effortlessly convert Spotify links to your preferred streaming service
 
 [IMDb Search](https://www.raycast.com/ryan/imdb) by ryan - Easily open your favorite film or TV series on IMDb.
 
@@ -866,7 +1140,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [MusicThread](https://www.raycast.com/ChucKN0risK/musicthread) by ChucKN0risK - Create a thread and add links to a thread in MusicThread
 
-[Toggle Audio Input (microphone)](https://www.raycast.com/Quentin23Soleil/mute-microphone) by Quentin23Soleil - Extension to mute/unmute audio input (microphone)
+[Toggle Audio Input (Microphone)](https://www.raycast.com/Quentin23Soleil/mute-microphone) by Quentin23Soleil - Extension to mute/unmute audio input (Microphone)
 
 [Myanimelist Search](https://www.raycast.com/luknl/myanimelist-search) by luknl - Easily search and open animes on Myanimelist.
 
@@ -876,13 +1150,13 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Odesli](https://www.raycast.com/annedouwe/odesli) by annedouwe - Get an Odesli link for the currently copied link of a song/album. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album on.
 
-[Office Quotes](https://www.raycast.com/braydoncoyer/office-quotes) by braydoncoyer - An extensions that requests quotes, facts and information on NBC’s beloved mockumentary series The Office.
+[Office Quotes](https://www.raycast.com/braydoncoyer/office-quotes) by braydoncoyer - An extension that displays quotes from NBC's beloved mockumentary series 'The Office'.
 
 [Open Camera Menu Bar](https://www.raycast.com/peduarte/open-camera-menu-bar) by peduarte - Open the camera command from the menu bar
 
 [Party Parrot](https://www.raycast.com/thomas/party-parrot) by thomas - Celebrating the good times with some dancing party parrot in Raycast.
 
-[Pexels](https://www.raycast.com/koinzhang/pexels) by koinzhang - Search photos or collections on Pexels, download or set them as wallpaper.
+[Pexels](https://www.raycast.com/koinzhang/pexels) by koinzhang - Search photos, videos or collections on Pexels.
 
 [Pianoman](https://www.raycast.com/juhamust/pianoman) by juhamust - Show piano chords and scales
 
@@ -1033,7 +1307,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Silent Mention](https://www.raycast.com/peduarte/silent-mention) by peduarte - Silently mention a handle, a URL or a hashtag.
 
-[Social Network Trends](https://www.raycast.com/koinzhang/social-network-trends) by koinzhang - Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, TouTiao News, BiliBili.
+[Social Network Trends](https://www.raycast.com/koinzhang/social-network-trends) by koinzhang - Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, BiliBili.
 
 [Sort Mentions](https://www.raycast.com/Yamen/sort-mentions) by Yamen - Sort usernames alphabetically for mentions in Slack, Twitter and other apps
 
@@ -1206,7 +1480,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Reverso Context](https://www.raycast.com/MrModest/reverso-context) by MrModest - Shows translation with usage examples via Reverso Context
 
-[Ruler](https://www.raycast.com/anwarulislam/ruler) by anwarulislam - Calculate Distance Between Two Points
+[Ruler](https://www.raycast.com/anwarulislam/ruler) by anwarulislam - Measure Distance Between Two Points
 
 [SAT Scorer](https://www.raycast.com/EvanZhouDev/sat-scorer) by EvanZhouDev - Calculate your SAT score based on problems correct.
 
@@ -1297,7 +1571,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Chess.com](https://www.raycast.com/joshfarrant/chess-com) by joshfarrant - Quickly start games on Chess.com
 
-[CricketCast](https://www.raycast.com/sampoder/cricketcast) by sampoder - Check the cricket score through Raycast!
+[CricketCast](https://www.raycast.com/sampoder/cricketcast) by sampoder - Check the cricket score and news through Raycast!
 
 [Dad Jokes](https://www.raycast.com/pernielsentikaer/dad-jokes) by pernielsentikaer - Get a random dad joke
 
@@ -1345,7 +1619,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Lichess.org](https://www.raycast.com/ftonato/lichess-org) by ftonato - Quickly start games on Lichess.org
 
-[Ligue 1](https://www.raycast.com/anhthang/ligue-1) by anhthang - View all the latest news about Ligue 1 Uber Eats (calendar, results, ranking, video...) and all live games.
+[Ligue 1](https://www.raycast.com/anhthang/ligue-1) by anhthang - View all the latest news about Ligue 1 McDonald's (calendar, results, ranking, video...) and all live games.
 
 [LoL Esports](https://www.raycast.com/vimtor/lol-esports) by vimtor - Search League of Legends esports schedules and standings.
 
@@ -1397,7 +1671,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Syntax.fm](https://www.raycast.com/msmps/syntax-fm) by msmps - Syntax.fm at your fingertips.
 
-[Tennis Standings](https://www.raycast.com/Maverick/tennis-standings) by Maverick - - Shows the ATP live rankings - Shows player details - Shows H2H
+[Tennis Standings](https://www.raycast.com/Zalgo_123/tennis-standings) by Zalgo_123 - Get the ATP and WTA rankings
 
 [Valorant Esports](https://www.raycast.com/vimtor/valorant-esports) by vimtor - Search Valorant esports schedules and standings.
 
@@ -1438,7 +1712,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [gg.deals](https://www.raycast.com/Whitespace/gg-deals) by Whitespace - Fetch the latest deals from gg.deals
 
-[Google Maps Search](https://www.raycast.com/ratoru/google-maps-search) by ratoru - Quickly open Google Maps directions, for example from your current location to your home.
+[Google Maps Search](https://www.raycast.com/ratoru/google-maps-search) by ratoru - Quickly search Google Maps or get directions.
 
 [HIIT](https://www.raycast.com/pernielsentikaer/hiit) by pernielsentikaer - High Intensity Interval Training directly from Raycast
 
@@ -1548,7 +1822,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Chatwith](https://www.raycast.com/rafal_zawadzki/chatwith) by rafal_zawadzki - AI chatbot trained on your data and with access to automations.
 
-[Claude](https://www.raycast.com/flodo/claude) by flodo - Interact with Anthropic's Claude API directly from Raycast
+[Claude](https://www.raycast.com/florisdobber/claude) by florisdobber - Interact with Anthropic's Claude API directly from Raycast
 
 [CodeGeex](https://www.raycast.com/MBearo/codegeex) by MBearo - CodeGeex AI code tools
 
@@ -1590,7 +1864,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Google Bard](https://www.raycast.com/EvanZhouDev/raycast-bard-ai) by EvanZhouDev - Perform Actions with Google Bard
 
-[Google Gemini](https://www.raycast.com/EvanZhouDev/raycast-gemini) by EvanZhouDev - Use the powerful new Google Gemini Pro models from the comfort of Raycast.
+[Google Gemini](https://www.raycast.com/EvanZhouDev/raycast-gemini) by EvanZhouDev - Use the Google Gemini from the comfort of Raycast.
 
 [Google PaLM](https://www.raycast.com/EvanZhouDev/raycast-google-palm) by EvanZhouDev - Use the Google PaLM 2 API in Raycast.
 
@@ -1724,7 +1998,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 [Run Zipper Applet](https://www.raycast.com/ariel_conti/zipper-run) by ariel_conti - Run a zipper applet
 
 
-## 🛠️ Utilities (166)
+## 🛠️ Utilities (165)
 
 [^  Back to Top  ^](#table-of-contents)
 
@@ -1780,7 +2054,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Converter](https://www.raycast.com/koinzhang/converter) by koinzhang - Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc.
 
-[Copy Path](https://www.raycast.com/koinzhang/copy-path) by koinzhang - Copy the path of the current Finder open folder, the path of the selected file or the URL of the current browser tab.
+[Copy Path](https://www.raycast.com/koinzhang/copy-path) by koinzhang - Copy the path of the open folder, selected file or the URL of the current browser tab.
 
 [CopyQ Clipboard Manager](https://www.raycast.com/andrewcincotta/copyq-clipboard-manager) by andrewcincotta - Lists CopyQ clipboard entries and allows user to paste them.
 
@@ -1822,9 +2096,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Dropshare](https://www.raycast.com/tjosten/dropshare) by tjosten - Create screen captures and upload files with Dropshare
 
-[Dub Link Shortener](https://www.raycast.com/quuu/dub-link-shortener) by quuu - Dub.co is the open-source link management infrastructure. This extension allows you to shorten and retrieve your Dub links directly inside Raycast.
-
-[Easy New File](https://www.raycast.com/koinzhang/easy-new-file) by koinzhang - Quickly create file in the current Finder window or on the desktop.
+[Easy New File](https://www.raycast.com/koinzhang/easy-new-file) by koinzhang - Quickly create file in the open Finder window.
 
 [Emoji Search](https://www.raycast.com/FezVrasta/emoji) by FezVrasta - Finds emojis and inserts or copies them.
 
@@ -1920,7 +2192,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [One Thing](https://www.raycast.com/pernielsentikaer/one-thing) by pernielsentikaer - Put a thing in your Menu Bar.
 
-[Open Path](https://www.raycast.com/koinzhang/open-path) by koinzhang - Open path from selection or clipboard. Support directory, URL, IP address, URL scheme, mailto, email address.
+[Open Path](https://www.raycast.com/koinzhang/open-path) by koinzhang - Open path and link from selection or clipboard in Finder, browsers, terminal, etc.
 
 [Open With App](https://www.raycast.com/fturcheti/open-with-app) by fturcheti - Choose an application to open the selected Finder items.
 
@@ -1930,11 +2202,11 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Parcel Tracker](https://www.raycast.com/junhyukjin/parcel-tracker) by junhyukjin - Track packages (only available in South Korea)
 
-[Paste as Plain Text](https://www.raycast.com/koinzhang/paste-as-plain-text) by koinzhang - Paste text from the clipboard as plain text.
+[Paste as Plain Text](https://www.raycast.com/koinzhang/paste-as-plain-text) by koinzhang - Paste text from the clipboard as any format.
 
 [Pastebin](https://www.raycast.com/vimtor/pastebin) by vimtor - Create and manage Pastebin pastes
 
-[PDFSearch](https://www.raycast.com/kevin-pek/pdfsearch) by kevin-pek - Search across collections of PDF documents.
+[PDFSearch](https://www.raycast.com/kevin-pek/pdfsearch) by kevin-pek - Search across collections of PDF files.
 
 [Fast Chat With Phone Number in IM Apps](https://www.raycast.com/timonpeng/phonenumber-in-im) by timonpeng - A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand.
 
@@ -1954,7 +2226,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [QR Code Generator](https://www.raycast.com/Melvynx/qrcode-generator) by Melvynx - Generate QR code for an URL
 
-[Quick Access](https://www.raycast.com/koinzhang/quick-access) by koinzhang - Quick copy, open, show the files pinned in Finder
+[Quick Access](https://www.raycast.com/koinzhang/quick-access) by koinzhang - Quick access, drag and drop the files or folders pinned in Finder.
 
 [Quick Phone Call](https://www.raycast.com/karbassi/quick-call) by karbassi - Make a phone call with the default telephone app.
 
@@ -2014,7 +2286,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [SwitchHosts](https://www.raycast.com/tiancheng92/switchhosts) by tiancheng92 - An extension for hosts management & switching
 
-[System Information](https://www.raycast.com/Visual-Studio-Coder/system-information) by Visual-Studio-Coder - Gives you quick access to your system information so that you never have to open System Settings.
+[System Information](https://www.raycast.com/Visual-Studio-Coder/system-information) by Visual-Studio-Coder - Quick access to your system information so you never have to open System Settings.
 
 [Temporary Email](https://www.raycast.com/natterstefan/temporary-email) by natterstefan - Quickly and easily create a temporary email.
 
@@ -2048,7 +2320,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [UTM Virtual Machines](https://www.raycast.com/alaidriel/utm-virtual-machines) by alaidriel - Launch and control virtual machines in UTM.
 
-[Wi-Fi](https://www.raycast.com/koinzhang/wi-fi) by koinzhang - Connect and toggle Wi-Fi via Raycast.
+[Wi-Fi](https://www.raycast.com/koinzhang/wi-fi) by koinzhang - Check and toggle Wi-Fi via Raycast.
 
 [Wifi Share QR-Code](https://www.raycast.com/abul_kalam_robin/wifi-share) by abul_kalam_robin - Share any saved wifi qr code to other devices to join the network
 
@@ -2357,7 +2629,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [SolusVM 1 Client](https://www.raycast.com/xmok/solusvm-1-client) by xmok - Fetch Information and Manage SolusVM 1 Virtual Server
 
-[Speedtest](https://www.raycast.com/tonka3000/speedtest) by tonka3000 - Speedtest via speedtest.net
+[Speedtest](https://www.raycast.com/tonka3000/speedtest) by tonka3000 - Test the performance and quality of your internet connection via speedtest.net
 
 [SSH Connection Manager](https://www.raycast.com/dimagrossman/ssh-manager) by dimagrossman - Quickly connect and manage multiple SSH connections
 
@@ -2436,11 +2708,11 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Multilinks](https://www.raycast.com/abhisheksatre/multilinks) by abhisheksatre - Open multiple links at once
 
-[Obsidian Bookmarks](https://www.raycast.com/dru89/obsidian-bookmarks) by dru89 - Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Chrome, Safari and Arc.
+[Obsidian Bookmarks](https://www.raycast.com/dru89/obsidian-bookmarks) by dru89 - Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers
 
 [One Tab Group](https://www.raycast.com/xiaoluoboding/one-tab-group) by xiaoluoboding - Search One Tab Group on Raycast
 
-[Open Link in Specific Browser](https://www.raycast.com/koinzhang/open-link-in-specific-browser) by koinzhang - Open link or search text in specific browsers, email clients, App Store or others.
+[Open Link in Specific Browser](https://www.raycast.com/koinzhang/open-link-in-specific-browser) by koinzhang - Open link or search text in specific browser.
 
 [Opera](https://www.raycast.com/crisboarna/opera) by crisboarna - Search open tabs, bookmarks and history in Opera.
 
@@ -2479,7 +2751,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Addy](https://www.raycast.com/http.james/anonaddy) by http.james - Generate and manage your Addy aliases from your keyboard.
 
-[Authy - Twilio app](https://www.raycast.com/guga4ka/authy) by guga4ka - Search, sync and use your Twilio’s Authy 2fa tokens with Raycast
+[Authy - Twilio App](https://www.raycast.com/guga4ka/authy) by guga4ka - Search, sync and use your Twilio’s Authy 2fa tokens with Raycast
 
 [Bitwarden Vault](https://www.raycast.com/jomifepe/bitwarden) by jomifepe - Access a Bitwarden account. Requires installing the Bitwarden CLI.
 
@@ -2503,7 +2775,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Fastmail Masked Email](https://www.raycast.com/LightQuantum/fastmail-masked-email) by LightQuantum - Manage masked emails with Fastmail
 
-[Get SSH Key](https://www.raycast.com/Tang/get-ssh-key) by Tang - Get your local SSH key in a split of a second.
+[Get SSH Key](https://www.raycast.com/Theon/get-ssh-key) by Theon - Get your local SSH key in a split of a second.
 
 [Gopass](https://www.raycast.com/bake/gopass) by bake - Search and copy passwords from gopass password manager
 
@@ -2722,7 +2994,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Deta Space](https://www.raycast.com/detahq/deta-space) by detahq - Raycast Integration for Deta Space
 
-[Devdocs](https://www.raycast.com/pomdtr/devdocs) by pomdtr - Search through DevDocs documentation sets from Raycast.
+[DevDocs](https://www.raycast.com/djpowers/devdocs) by djpowers - Search through DevDocs documentation sets from Raycast.
 
 [DevUtils](https://www.raycast.com/devutils/devutils) by devutils - Navigate DevUtils faster with this All-in-one Toolbox for Developers
 
@@ -3136,7 +3408,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Val Town](https://www.raycast.com/KevinBatdorf/val-town) by KevinBatdorf - View and run your vals and search others' vals
 
-[Vercel](https://www.raycast.com/vercel/vercast) by vercel - View and modify your Vercel projects and deployments.
+[Vercel](https://www.raycast.com/vercel/vercast) by vercel - View and modify your Vercel projects, deployments and domains.
 
 [Verify Number](https://www.raycast.com/xmok/verify-number) by xmok - Global Phone Number Validation & Lookup JSON API from APILayer
 
@@ -3144,7 +3416,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Vision Directory](https://www.raycast.com/marckohlbrugge/vision-directory) by marckohlbrugge - Discover the latest Apple Vision Pro apps
 
-[Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code) by thomas - Control Visual Studio Code directly from Raycast - Search and open recent projects, handle extensions and commands.
+[Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code) by thomas - Control Visual Studio Code, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands.
 
 [Visual Studio Code - Project Manager](https://www.raycast.com/MarkusLanger/vscode-project-manager) by MarkusLanger - Search and open projects from Visual Studio Code Project Manager
 
@@ -3171,5 +3443,3 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 [xid](https://www.raycast.com/rosszurowski/xid) by rosszurowski - Quickly create an xid from Raycast.
 
 [Zed](https://www.raycast.com/ewgenius/zed-recent-projects) by ewgenius - Search and open recent projects from Zed
-
-
