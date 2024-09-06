@@ -17,7 +17,7 @@ Please note that this is an **unofficial** repository and not directly affiliate
 I hope this repository helps you make the most out of Raycast. Explore, enjoy, and don't hesitate to contribute!
 
 ## Table of Contents
-- [🌟 New from the Last Week (39)](#-new-from-the-last-week-39)
+- [🌟 New from the Last Update (39)](#-new-from-the-last-update-39)
 - [💼 Business (101)](#-business-101)
 - [🚀 Productivity (154)](#-productivity-154)
 - [🎨 Design (106)](#-design-106)
@@ -40,7 +40,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 # Raycast Extensions (1693 in total)
 
-## 🌟 New from the Last Week (39)
+## 🌟 New from the Last Update (39)
 [^  Back to Top  ^](#table-of-contents)
 
 [@ Profile](
