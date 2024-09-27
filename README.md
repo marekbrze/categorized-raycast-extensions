@@ -17,37 +17,50 @@ Please note that this is an **unofficial** repository and not directly affiliate
 I hope this repository helps you make the most out of Raycast. Explore, enjoy, and don't hesitate to contribute!
 
 ## Table of Contents
-- [🌟 New from the Last Update (39)](#-new-from-the-last-update-39)
-- [💼 Business (101)](#-business-101)
-- [🚀 Productivity (154)](#-productivity-154)
-- [🎨 Design (106)](#-design-106)
-- [🎵 Audio, Video, Images (89)](#-audio-video-images-89)
-- [📱 Social Media (48)](#-social-media-48)
-- [📚 Education (113)](#-education-113)
-- [🎭 Entertainment (89)](#-entertainment-89)
-- [🌟 Lifestyle (42)](#-lifestyle-42)
-- [🔬 Science (15)](#-science-15)
-- [🤖 AI & ML (55)](#-ai-ml-55)
-- [📊 Data Analysis (20)](#-data-analysis-20)
-- [♿️ Accessibility (9)](#-accessibility-9)
-- [⚙️ Automation (14)](#-automation-14)
-- [🛠️ Utilities (212)](#-utilities-212)
-- [💻 Technology (169)](#-technology-169)
-- [🌐 Browsers (37)](#-browsers-37)
-- [🔒 Security (66)](#-security-66)
-- [🛠️ Developer Tools (313)](#-developer-tools-313)
+- [Categorized Raycast Extensions](#categorized-raycast-extensions)
+  - [📘 About This Repository](#-about-this-repository)
+  - [🗂 Categories](#-categories)
+  - [🙌 Contributing](#-contributing)
+  - [⚠️ Disclaimer](#️-disclaimer)
+  - [Table of Contents](#table-of-contents)
+- [Raycast Extensions (1716 in total)](#raycast-extensions-1716-in-total)
+  - [🌟 New from the Last Update (62)](#-new-from-the-last-update-62)
+  - [💼 Business (101)](#-business-101)
+  - [🚀 Productivity (154)](#-productivity-154)
+  - [🎨 Design (106)](#-design-106)
+  - [🎵 Audio, Video, Images (89)](#-audio-video-images-89)
+  - [📱 Social Media (48)](#-social-media-48)
+  - [📚 Education (113)](#-education-113)
+  - [🎭 Entertainment (89)](#-entertainment-89)
+  - [🌟 Lifestyle (42)](#-lifestyle-42)
+  - [🔬 Science (15)](#-science-15)
+  - [🤖 AI \& ML (55)](#-ai--ml-55)
+  - [📊 Data Analysis (20)](#-data-analysis-20)
+  - [♿️ Accessibility (9)](#️-accessibility-9)
+  - [⚙️ Automation (14)](#️-automation-14)
+  - [🛠️ Utilities (212)](#️-utilities-212)
+  - [💻 Technology (169)](#-technology-169)
+  - [🌐 Browsers (37)](#-browsers-37)
+  - [🔒 Security (66)](#-security-66)
+  - [🛠️ Developer Tools (313)](#️-developer-tools-313)
 
 
-# Raycast Extensions (1693 in total)
+# Raycast Extensions (1716 in total)
 
-## 🌟 New from the Last Update (39)
+## 🌟 New from the Last Update (62)
 [^  Back to Top  ^](#table-of-contents)
 
 [@ Profile](
           https://www.raycast.com/chrismessina/at-profile) by chrismessina - Quickly open profiles on social platforms.
 
+[Better Deal](
+          https://www.raycast.com/juxtdesigncc/better-deal) by juxtdesigncc - Calculates unit costs and tracks purchasing history to help you find the best deals.
+
 [Bonjour](
           https://www.raycast.com/that70schris/bonjour) by that70schris - Manage Bonjour services
+
+[Catppuccin](
+          https://www.raycast.com/dvhsh/catppuccin) by dvhsh - Quickly view the Catppuccin color palette, userstyles, ports, and documentation.
 
 [Chinese Lottery](
           https://www.raycast.com/elonwoo/chinese-lottery) by elonwoo - Check the results of China Welfare Lottery and Sports Lottery
@@ -55,17 +68,26 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 [Cocktail DB](
           https://www.raycast.com/xmok/cocktail-db) by xmok - Search Drinks by Name or Ingredient via TheCocktailDB
 
+[Coolify](
+          https://www.raycast.com/xmok/coolify) by xmok - View Servers, Resources, Teams and more
+
+[Count Numbers](
+          https://www.raycast.com/muzhen_gaming/count-numbers) by muzhen_gaming - A simple but powerful number counter!
+
 [Cron](
           https://www.raycast.com/astrit/cron) by astrit - A companion for Cron (cron.re)
 
 [cryptgeon](
           https://www.raycast.com/cupcakearmy/cryptgeon) by cupcakearmy - Create and share encrypted notes
 
-[Cursor](
+[Cursor Documentation](
           https://www.raycast.com/degouville/cursor) by degouville - Search the Cursor Documentation right from Raycast
 
-[DropsTab](
-          https://www.raycast.com/nikolayqwerty/dropstab) by nikolayqwerty - Get crypto coin data and navigate to official sites or X. Instantly view your wallets via blockchain explorers.
+[Cursor Directory](
+          https://www.raycast.com/escwxyz/cursor-directory) by escwxyz - Port functionality from cursor.directory
+
+[Cursor](
+          https://www.raycast.com/degouville/cursor-recent-projects) by degouville - Control Cursor, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands.
 
 [DropsTab](
           https://www.raycast.com/nikolayqwerty/dropstab) by nikolayqwerty - Get crypto coin data and navigate to official sites or X. Instantly view your wallets via blockchain explorers.
@@ -76,14 +98,35 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 [Git Buddy](
           https://www.raycast.com/gianfranco/git-buddy) by gianfranco - An opinionated, AI-powered Git assistant for commit messages, PR descriptions, and branch management tasks.
 
+[Groundhog Day](
+          https://www.raycast.com/xmok/groundhog-day) by xmok - Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions
+
 [Hashrate](
           https://www.raycast.com/xmok/hashrate-no) by xmok - Crypto mining resources via Hashrate.no
 
 [Hoarder](
           https://www.raycast.com/kdurek/hoarder) by kdurek - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
+[ICD10 Lookup](
+          https://www.raycast.com/ubergraham/icd10-lookup) by ubergraham - Shows matching ICD10 codes based on disease name input. Uses NLM's ICD10 API.
+
 [iCloud+ Global Pricing Comparison](
           https://www.raycast.com/elonwoo/icloud-global-pricing-comparison) by elonwoo - iCloud+ offers various global pricing tiers for storage plans, including 50GB, 200GB, 2TB, 6TB, and 12TB, with prices varying by region and currency.
+
+[ImageOptim](
+          https://www.raycast.com/marckohlbrugge/imageoptim) by marckohlbrugge - Compress images with ImageOptim
+
+[IndieHackers](
+          https://www.raycast.com/xmok/indiehackers) by xmok - Browse IndieHackers
+
+[Jurassic Ninja Site Generator](
+          https://www.raycast.com/keoshi/jurassic-ninja-site-generator) by keoshi - Launch WordPress test sites with Jurassic Ninja
+
+[JustColorPicker](
+          https://www.raycast.com/woods_w/justcolorpicker-raycast) by woods_w - Just a color picker
+
+[Kill Node Modules](
+          https://www.raycast.com/NicolasMontone/kill-node-modules) by NicolasMontone - Remove selected node_modules
 
 [Luna Search](
           https://www.raycast.com/relevantsam/luna-search) by relevantsam - Quickly find and open Luna Games
@@ -96,6 +139,9 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Metaphorpsum](
           https://www.raycast.com/jsumnersmith/metaphorpsum) by jsumnersmith - An extension for generating random text from the metaphorpsum API.
+
+[MeTube](
+          https://www.raycast.com/dot/metube) by dot - Download videos from YouTube and other services through yt-dlp using MeTube.
 
 [mittwald](
           https://www.raycast.com/danieldeichfuss/mittwald) by danieldeichfuss - Search mittwald mStudio and API documentation.
@@ -112,6 +158,12 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 [Oxford Collocation Dictionary](
           https://www.raycast.com/guilhermevictor/oxford-collocation-dictionary) by guilhermevictor - Query the Online Oxford Colocation Dictionary and display it's data
 
+[Password Strength](
+          https://www.raycast.com/j3lte/password-strength) by j3lte - Check your passwords
+
+[Pastefy](
+          https://www.raycast.com/interaapps/pastefy) by interaapps - Use Pastefy in Raycast to create and list pastes
+
 [PDF Tools](
           https://www.raycast.com/xilopaint/pdf-tools) by xilopaint - Your all-in-one PDF toolkit
 
@@ -124,14 +176,26 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 [Real Calc](
           https://www.raycast.com/xilopaint/real-calc) by xilopaint - Update financial values based on various Brazilian price indices
 
+[Recap](
+          https://www.raycast.com/user_c640ee8bc38faa8cdb2f/recap) by user_c640ee8bc38faa8cdb2f - Manage your reminders in Recap.
+
 [Say No to Notch](
           https://www.raycast.com/honghao/say-no-to-notch) by honghao - Control MacBook Notch via Say No to Notch
+
+[Search OEIS](
+          https://www.raycast.com/omennia/search-oeis) by omennia - Search OEIS database
 
 [Shlink](
           https://www.raycast.com/xeretis/shlink) by xeretis - Shorten and manage URLs using your own Shlink instance.
 
 [Slackmojis](
           https://www.raycast.com/timoransky/slackmojis) by timoransky - An unofficial directory of the best custom Slack emojis from slackmojis.com
+
+[SmartThings Connector](
+          https://www.raycast.com/IngoJ/smartthings-connector) by IngoJ - Integration with SmartThings to manage lights, scenes, and location modes.
+
+[SnapAsk](
+          https://www.raycast.com/renzo/snapask) by renzo - Get instant AI answers for your questions.
 
 [Split Video Scenes](
           https://www.raycast.com/xmorse/split-video-scenes) by xmorse - Select a video file and split it into scenes
@@ -152,13 +216,25 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/chrismessina/threads) by chrismessina - Quickly post to Threads and see recent updates.
 
 [Tidal Controller](
-          https://www.raycast.com/broc-dev/tidal-controller) by broc-dev - Control your local Tidal client with your keyboard.
+          https://www.raycast.com/broc-dev/tidal-controller) by broc-dev - Control your local Tidal client with your keyboard. Note: You **must** enable Accessibility permissions for Raycast in order for this extension to work.
 
 [Tiny Tycho](
           https://www.raycast.com/orangebyte/tiny-tycho) by orangebyte - Cute and Goofy Tycho Stickers for Mac
 
 [Toggle Fn](
           https://www.raycast.com/elonwoo/toggle-fn) by elonwoo - Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences.
+
+[Search Vant Documentation](
+          https://www.raycast.com/cai_aisen/vant-documentation) by cai_aisen - Search Vant documentation
+
+[WPPB](
+          https://www.raycast.com/pernielsentikaer/wppb) by pernielsentikaer - WordPress Plugin Boilerplate
+
+[YouTube Thumbnail](
+          https://www.raycast.com/bensomething/youtube-thumbnail) by bensomething - View a YouTube video's largest thumbnail, then download it or copy its URL.
+
+[Zeabur Docs](
+          https://www.raycast.com/ridemountainpig/zeabur-docs) by ridemountainpig - Search Zeabur Docs
 
 
 ## 💼 Business (101)
@@ -1177,11 +1253,11 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 [SF Symbols Search](
           https://www.raycast.com/peteschaffner/sf-symbols-search) by peteschaffner - Search and copy SF Symbols
 
-[Shadcn/ui](
+[shadcn/ui](
           https://www.raycast.com/luisFilipePT/shadcn-ui) by luisFilipePT - Browse shadcn/ui documentation, components and examples
 
 [Brand Icons - simpleicons.org](
-          https://www.raycast.com/litomore/simple-icons) by litomore - Browse, Search, and Copy 3100+ popular brand icons from Simple Icons.
+          https://www.raycast.com/litomore/simple-icons) by litomore - Browse, Search, and Copy 3200+ popular brand icons from Simple Icons.
 
 [Sip](
           https://www.raycast.com/jameslyons/sip) by jameslyons - Access these Sip color management app features from Raycast: show color picker, open contrast checker, open settings, check contrast between two hex values, and add hex color to history.
@@ -2058,7 +2134,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/lamalamaMark/buddy) by lamalamaMark - Control Buddy with your keyboard.
 
 [Bundesliga](
-          https://www.raycast.com/anhthang/bundesliga) by anhthang - The latest news, info and stats for clubs in 2021-2022 can be found in Raycast.
+          https://www.raycast.com/anhthang/bundesliga) by anhthang - Stay up-to-date with the latest news, fixtures, results, and standings from the Bundesliga.
 
 [Chess.com](
           https://www.raycast.com/joshfarrant/chess-com) by joshfarrant - Quickly start games on Chess.com
@@ -2154,7 +2230,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/niklaswa/laby-net) by niklaswa - Search and view Minecraft user profiles and textures like skins and capes with data from laby.net.
 
 [LaLiga](
-          https://www.raycast.com/anhthang/laliga) by anhthang - All the information of LaLiga Santander, LaLiga SmartBank, and Liga F: schedules, results, standings, news, statistics, and much more
+          https://www.raycast.com/anhthang/laliga) by anhthang - A comprehensive extension for tracking La Liga matches, standings, and club information.
 
 [Lichess.org](
           https://www.raycast.com/ftonato/lichess-org) by ftonato - Quickly start games on Lichess.org
@@ -2205,7 +2281,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/mSarheed/plex) by mSarheed - View the media in your Plex Media Server
 
 [Pokédex](
-          https://www.raycast.com/anhthang/pokedex) by anhthang - The Pokédex is an invaluable tool to Trainers in the Pokémon world.
+          https://www.raycast.com/anhthang/pokedex) by anhthang - Explore the world of Pokémon with stunning visuals and detailed information in Raycast.
 
 [Portuguese Primeira Liga](
           https://www.raycast.com/danielsequeira/portuguese-primeira-liga) by danielsequeira - View the latest Portuguese Primeira Liga standings.
@@ -2526,7 +2602,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/Hydrapse/dlmoji) by Hydrapse - Semantic search for Emojis, powered by Deep Learning and intelligent APIs
 
 [Ask Dust](
-          https://www.raycast.com/vineus/dust-tt) by vineus - Query dust.tt AI agents
+          https://www.raycast.com/albandum/dust-tt) by albandum - Query dust.tt AI agents
 
 [Easy OCR](
           https://www.raycast.com/Rafo94/easy-ocr) by Rafo94 - Use Tesseract or Google Cloud Vision OCR to extract text from screenshot
@@ -2751,7 +2827,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/j3lte/govee) by j3lte - Control your Govee Lights
 
 [Home Assistant](
-          https://www.raycast.com/tonka3000/homeassistant) by tonka3000 - Home Assistant remote control. Control your house with Raycast 🚀
+          https://www.raycast.com/tonka3000/homeassistant) by tonka3000 - Manage your smart home with Raycast
 
 [Homey](
           https://www.raycast.com/DominicVonk/homey) by DominicVonk - Homey Flows & Devices
@@ -2851,7 +2927,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/cali/brightness-control) by cali - Quickly controls the brightness levels of your display
 
 [Clean Keyboard](
-          https://www.raycast.com/ike-gg/clean-keyboard) by ike-gg - Lock your keyboard to clean it easily.
+          https://www.raycast.com/ike-gg/clean-keyboard) by ike-gg - Lock your keyboard to clean it easily
 
 [Clear Clipboard](
           https://www.raycast.com/d3caf/clear-clipboard) by d3caf - Clears your clipboard so you don't accidentally paste things into work chat.
@@ -3382,7 +3458,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/pingdotgg/uploadthing) by pingdotgg - Upload files in a single click
 
 [URL Tools](
-          https://www.raycast.com/joshua46/url-tools) by joshua46 - Quickly encode or decode URL from the clipboard
+          https://www.raycast.com/huzef44/url-tools) by huzef44 - Quickly encode or decode URL from the clipboard
 
 [UTM Virtual Machines](
           https://www.raycast.com/alaidriel/utm-virtual-machines) by alaidriel - Launch and control virtual machines in UTM.
@@ -3975,7 +4051,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/jimluo/later) by jimluo - Read your tabs later
 
 [Linkwarden](
-          https://www.raycast.com/leodbrs/linkwarden) by leodbrs - This extension allows you to manage your Linkwarden bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly.
+          https://www.raycast.com/leodbrs/linkwarden) by leodbrs - Manage your Linkwarden bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly.
 
 [Lucky Surf](
           https://www.raycast.com/popalay/lucky-surf) by popalay - Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and efficiently
@@ -4421,7 +4497,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/github-next/copilot-workspace) by github-next - Take an idea from anywhere and turn it into code with Copilot Workspace
 
 [cPanel](
-          https://www.raycast.com/xmok/cpanel) by xmok - View Domains, DNS Zones, Email Accounts, Databases and more
+          https://www.raycast.com/xmok/cpanel) by xmok - View Domains, DNS Zones, Email Accounts, Databases, Files and more
 
 [crates.io Search](
           https://www.raycast.com/matt/cratecast) by matt - Explore crates.io
@@ -4733,7 +4809,7 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
           https://www.raycast.com/HelloImSteven/man-pages) by HelloImSteven - Search through the macOS man pages
 
 [ClickUp - Tasks Explorer](
-          https://www.raycast.com/aparandeh/manage-clickup-tasks) by aparandeh - Browse ClickUp tasks from Raycast
+          https://www.raycast.com/aparandeh/manage-clickup-tasks) by aparandeh - Browse ClickUp tasks and docs from Raycast
 
 [Markdown Image to HTML](
           https://www.raycast.com/qeude/markdown-image-to-html) by qeude - Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files.
@@ -5187,3 +5263,5 @@ I hope this repository helps you make the most out of Raycast. Explore, enjoy, a
 
 [Zed](
           https://www.raycast.com/ewgenius/zed-recent-projects) by ewgenius - Search and open recent projects from Zed
+
+
